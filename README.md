@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ###
-[![]( https://projecteuler.net/profile/chrisnykru.png )](https://projecteuler.net/about)
+[![]( https://projecteuler.net/profile/christophershirk.png )](https://projecteuler.net/about)
 
