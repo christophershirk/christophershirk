@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 ###
 [![]( https://projecteuler.net/profile/chrisnykru.png )](https://projecteuler.net/about)
 
-### Around the web:
-- [Kiva Microfinance profile](https://kiva.org/lender/chrisnykru)
-
