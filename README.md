@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+_Tiger:_ Wait a minute, what's your favorite book?
+
+_Fievel:_ Hmm, The Brothers Karamausov.
+
+_Tiger:_ The brothers...(wheezing laugh) I can't believe it
+
 ###
 [![]( https://projecteuler.net/profile/christophershirk.png )](https://projecteuler.net/about)
 
