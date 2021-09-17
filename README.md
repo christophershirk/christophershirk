@@ -13,13 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Kiva Microfinance](https://kiva.org/lender/christophershirk) | [Kickstarter](https://www.kickstarter.com/profile/cd5)
+
+---
+
 _Tiger:_ Wait a minute, what's your favorite book?
 
 _Fievel:_ Hmm, The Brothers Karamausov.
 
 _Tiger:_ The brothers...(wheezing laugh) I can't believe it
 
+---
+
 ###
 [![]( https://projecteuler.net/profile/christophershirk.png )](https://projecteuler.net/about)
 
-[Kickstarter](https://www.kickstarter.com/profile/cd5) | [Kiva](https://kiva.org/lender/christophershirk)
