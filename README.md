@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Kiva Microfinance](https://kiva.org/lender/christophershirk) | [Kickstarter](https://www.kickstarter.com/profile/cd5)
+[Kiva Microfinance](https://kiva.org/lender/christophershirk) | [Kickstarter](https://www.kickstarter.com/profile/cd5) | [Project Euler](https://projecteuler.net/profile/christophershirk.png)
 
 ---
 
@@ -24,7 +24,4 @@ _Fievel:_ Hmm, The Brothers Karamausov.
 _Tiger:_ The brothers...(wheezing laugh) I can't believe it
 
 ---
-
-###
-[![]( https://projecteuler.net/profile/christophershirk.png )](https://projecteuler.net/about)
 
