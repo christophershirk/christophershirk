@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Kiva Microfinance](https://kiva.org/lender/christophershirk) | [Kickstarter](https://www.kickstarter.com/profile/cd5) | [Project Euler](https://projecteuler.net/profile/christophershirk.png)
-
----
 
 _Tiger:_ Wait a minute, what's your favorite book?
 
